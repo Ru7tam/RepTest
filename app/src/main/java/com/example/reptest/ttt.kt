@@ -10,3 +10,7 @@ class ttt {
     val btbewrg = 5
     val bbnyh = 5
 }
+
+fun proverka(){
+
+}
